@@ -3,3 +3,5 @@
 	email = 514435906@qq.com
 [http]
 	sslVerify = false
+[https]
+	proxy = https://127.0.0.1:1080
